@@ -2,6 +2,8 @@
 
 Check out the deployed project at https://ancient-retreat-89297.herokuapp.com/
 
+![alt text](https://i.imgur.com/txBHG8e.jpg "Color Game")
+
 A simple color game project where you have to guess the color of the RGB numbers in the header by clicking the boxes the color boxes.
 You can also pick the difficulty and change the RGB color number along with the color boxes. 
 
